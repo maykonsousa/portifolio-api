@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "teches",
+  "info": {
+    "singularName": "tech",
+    "pluralName": "teches",
+    "displayName": "Tech"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
