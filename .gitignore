@@ -9,6 +9,7 @@ Icon
 .Spotlight-V100
 .Trashes
 ._*
+.env
 
 
 ############################
@@ -112,3 +113,4 @@ exports
 dist
 build
 .strapi-updater.json
+.env
